@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;1.1-exercicios-estrutura-seuqencial&apos; to &apos;1.1-exercicios-estrutura-sequencial&apos;&#x0D;&#x0A;- Original element: &apos;1.1-exercicios-estrutura-seuqencial&apos;&#x0D;&#x0A;- Renamed element: &apos;1.1-exercicios-estrutura-seuqencial&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;1.1-exercicios-estrutura-seuqencial&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=1.1-exercicios-estrutura-seuqencial" name="1.1-exercicios-estrutura-sequencial" references="true" stamp="1749042917860" version="1.0"/>
+</session>
